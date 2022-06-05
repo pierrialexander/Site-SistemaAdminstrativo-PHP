@@ -1,0 +1,16 @@
+{
+    "description" : "Curso Projeto PHP OO MVC",
+    "authors" : [
+        {
+            "name" : "Pierri Alexander Vidmar",
+            "email" : "pierri@hotmail.com.br"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "Sts\\" : "app/sts",
+            "Core\\" : "core"
+        }
+    },
+    "require" : {}
+}
